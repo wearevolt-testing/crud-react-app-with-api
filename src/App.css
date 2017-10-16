@@ -1,0 +1,16 @@
+.tablePage {
+	margin: 30px 50px;
+}
+
+h1 {
+	display: inline-block;
+	margin: 40px 15px 20px 5px;
+}
+
+.btn {
+	margin: 0px 20px 0px 15px;
+}
+
+.btnCreate {
+	display: inline-block;
+}
